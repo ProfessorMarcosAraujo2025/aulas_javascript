@@ -50,7 +50,7 @@ console.log("Array de Carros após modificação:", carros);
 
 
 //Adicionando um elemento no final do array
-/* cidades.addLast("Porto Alegre"); */
+cidades.push("Porto Alegre");
 console.log("Array de Cidades após adicionar Porto Alegre:", cidades);
 
 //Removendo o último elemento do array
